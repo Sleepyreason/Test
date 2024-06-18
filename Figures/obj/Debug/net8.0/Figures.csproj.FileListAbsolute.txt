@@ -1,0 +1,11 @@
+C:\Users\amirk\Programm C#\Test\Figures\bin\Debug\net8.0\Figures.deps.json
+C:\Users\amirk\Programm C#\Test\Figures\bin\Debug\net8.0\Figures.dll
+C:\Users\amirk\Programm C#\Test\Figures\bin\Debug\net8.0\Figures.pdb
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.dll
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\refint\Figures.dll
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.pdb
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\ref\Figures.dll
