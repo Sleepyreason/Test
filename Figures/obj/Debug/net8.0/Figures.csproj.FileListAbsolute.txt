@@ -9,3 +9,4 @@ C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.dll
 C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\refint\Figures.dll
 C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.pdb
 C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\ref\Figures.dll
+C:\Users\amirk\Programm C#\Test\Figures\obj\Debug\net8.0\Figures.sourcelink.json

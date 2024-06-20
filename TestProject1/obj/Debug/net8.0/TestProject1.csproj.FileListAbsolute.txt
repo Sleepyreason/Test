@@ -100,3 +100,4 @@ C:\Users\amirk\Programm C#\Test\TestProject1\obj\Debug\net8.0\ref\TestProject1.d
 C:\Users\amirk\Programm C#\Test\TestProject1\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProject1
 C:\Users\amirk\Programm C#\Test\TestProject1\bin\Debug\net8.0\Figures.dll
 C:\Users\amirk\Programm C#\Test\TestProject1\bin\Debug\net8.0\Figures.pdb
+C:\Users\amirk\Programm C#\Test\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
